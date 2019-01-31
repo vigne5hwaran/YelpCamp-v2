@@ -24,3 +24,9 @@ Each campground has:
 #Style the Navbar and Form
 * Add the navbar to all the Templates
 * Style the new Campgrounds form
+
+
+# DATABASE
+* MongoDB has been included in this project just to store Campgrounds
+* Make better ui improvements
+* Add Description to campgrounds
